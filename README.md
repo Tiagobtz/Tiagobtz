@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Tiagobtz 
-Tiagobtz
-/
-Tiagobtz
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-Tiagobtz/README.md
-@Tiagobtz
-Tiagobtz Update README.md
-Latest commit 5f1a8f3 on Jun 2
- History
- 1 contributor
-28 lines (21 sloc)  2.03 KB
-
 ## Bem-vindo(a) ao perfil do Tiagobtz 😁
 
  <div>
